@@ -1,0 +1,5 @@
+# Ignore the "img" directory
+img/
+
+# Ignore the "output.csv" file
+output.csv
